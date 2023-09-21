@@ -1,6 +1,6 @@
 # Steamify - Netflix Clone
 
-![Steamify Logo](https://github.com/sankytech12/Steamify-Netflix-Clone/blob/main/public/images/logo.png)
+![Steamify Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png)
 
 **Steamify** is a Netflix clone that allows you to stream your favorite movies and TV shows. With a user-friendly interface and a wide selection of content, Steamify provides an immersive streaming experience similar to Netflix. Whether you're a movie buff, TV series enthusiast, or just looking for a platform to host your own content, Steamify has you covered.
 
